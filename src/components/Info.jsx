@@ -19,9 +19,7 @@ const Info = () =>{
         </div>
     </div>
           
-          <div className="info-container">
-    <h1 className="text-white text-center pt-3 fw-bold">Info</h1>
-    {/* <h1 className="text-white text-center pt-3 fw-bold">Nabil</h1> */}
+          
     <div className="col d-flex justify-content-center ">
         <div className="info-col col-sm-12 bg-dark p-2 rounded">
             <p className="text-white text-center mb-0">Jangan Lupa Sawerannya Yak Agar Admin Lebih Giat Untuk Update Chapter Terbaru Dari Berbagai Komik Bahasa Indonesia</p>
