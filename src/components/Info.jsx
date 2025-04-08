@@ -25,6 +25,12 @@ const Info = () =>{
             <p className="text-white text-center mb-0">Jangan Lupa Sawerannya Yak Agar Admin Lebih Giat Untuk Update Chapter Terbaru Dari Berbagai Komik Bahasa Indonesia</p>
         </div>
     </div>
+
+    <div className="col d-flex justify-content-center ">
+        <div className="info-col col-sm-12 bg-dark p-2 rounded">
+            <p className="text-white text-center mb-0">https://sociabuzz.com/arthurxyz_studios/tribe</p>
+        </div>
+    </div>
           
    <div className="d-flex gap-1 justify-content-center">
    <a class="btn btn-dark m-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
