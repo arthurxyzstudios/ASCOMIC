@@ -14,7 +14,7 @@ const Info = () =>{
     <div className="col d-flex justify-content-center ">
         <div className="info-col col-sm-12 bg-dark p-2 rounded">
 
-        <p className="text-white text-center mb-0"><b>Kurokami</b> adalah Aplikasi Baca Manhwa dan Manga <b>Gratis</b> yang mudah digunakan. Tanpa perlu login, cukup buka dan langsung mulai membaca. Terdapat sedikit <b>Iklan</b> dalam aplikasi, namun tidak menggangu dalam membaca</p>
+        <p className="text-white text-center mb-0"><b>ASComic</b> adalah Aplikasi Baca Manhwa dan Manga <b>Gratis</b> yang mudah digunakan. Tanpa perlu login, cukup buka dan langsung mulai membaca. Terdapat sedikit <b>Iklan</b> dalam aplikasi, namun tidak menggangu dalam membaca</p>
 
         </div>
     </div>
