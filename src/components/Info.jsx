@@ -51,14 +51,14 @@ const Info = () =>{
         <p className="text-white">Kami dapat memperbarui kebijakan privasi ini dari waktu ke waktu. Perubahan apa pun akan diumumkan melalui aplikasi, dan kebijakan privasi yang diperbarui akan berlaku segera setelah diposting.</p>
 
         <h6 class="card-subtitle mb-2 text-white fw-bold">5. Kontak</h6>
-        <p className="text-white">Jika Anda memiliki pertanyaan atau kekhawatiran mengenai kebijakan privasi ini, silakan hubungi kami di <a className="text-white fw-bold">agungcakra888@gmail.com</a></p>
+        <p className="text-white">Jika Anda memiliki pertanyaan atau kekhawatiran mengenai kebijakan privasi ini, silakan hubungi kami di <a className="text-white fw-bold">arthurxyzstudios@gmail.com</a></p>
         </div>
 </div>
 
 <div class="collapse" id="dev">
         <div className="col text-center bg-dark m-2 rounded p-2">
            <b className="text-white text-center">Saran & Masukan</b>
-           <p className="text-white">Untuk Sementara, Jika ada Saran dan Masukan silahkan hubungi <a className="text-white fw-bold">agungcakra888@gmail.com</a></p>
+           <p className="text-white">Untuk Sementara, Jika ada Saran dan Masukan silahkan hubungi <a className="text-white fw-bold">arthurxyzstudios@gmail.com</a></p>
         </div>
 </div>
        <p class="text-center text-white pt-5">© ArthurXyz Studios - 2025. All Right Reserved</p>
