@@ -61,7 +61,7 @@ const Info = () =>{
            <p className="text-white">Untuk Sementara, Jika ada Saran dan Masukan silahkan hubungi <a className="text-white fw-bold">agungcakra888@gmail.com</a></p>
         </div>
 </div>
-       <p class="text-center text-white pt-5">© 2024 Cakra Jaya. All right reserved</p>
+       <p class="text-center text-white pt-5">© ArthurXyz Studios - 2025. All Right Reserved</p>
 
 </div>
 
